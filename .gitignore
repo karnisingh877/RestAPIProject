@@ -6,7 +6,6 @@
 .sf/
 .sfdx/
 .husky/
-.vscode/
 .localdevserver/
 deploy-options.json
 
